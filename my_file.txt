@@ -1,0 +1,6 @@
+Hello, this is my first line.
+Here is a number: 42
+And here's another string: Python is great!
+Appending a new line to the file.
+Here is another number: 100
+Final line: Enjoy coding!
